@@ -630,6 +630,7 @@
 		</section><!-- //NEWS -->
 	</div><!-- //PAGE -->
 	<!-- CONTACTS -->
+	<?php include("mailfooter.php"); ?>
 	<section id="contacts">
 	</section><!-- //CONTACTS -->
 	
